@@ -1,0 +1,24 @@
+## Welcome! 
+I am Chris, Senior Security Engineer here at League!
+
+## ⚡ Technologies
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ChrisAtLeague&count_private=true&show_icons=true&include_all_commits=true)
+
+- 🌱 I’m currently learning `golang`, `terraform`, and improving my `gcloud` skills.
+- 💞️ I’m looking to collaborate on `anything`
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ChrisAtLeague.ChrisAtLeague)
+
+
+<!---
+ChrisAtLeague/ChrisAtLeague is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
